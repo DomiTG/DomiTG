@@ -1,38 +1,44 @@
-# Hi there, I'm Domink Hůla! 👋
+# Dominik Hůla - GitHub Portfolio
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and contribute to open-source projects. 
+Welcome to my GitHub portfolio! I'm Dominik Hůla, a passionate developer with expertise in TypeScript, CSS, HTML, and an emerging interest in C++. I aspire to work in the UK someday and contribute to innovative projects.
 
-## 🚀 About Me
+## 🚀 Top Projects
 
-- 🌱 I’m currently learning **C++**
-- 💬 Ask me about **TypeScript, HTML,**
-- 📫 How to reach me: **dominik@hula.sh**
+### [VYTVORKONVERZKU](https://github.com/vytvorkonverzku)
+An exciting project that showcases my skills in TypeScript, CSS, and HTML. This repository contains a collection of tools and utilities designed to enhance productivity and streamline workflows.
 
-## 🛠️ Languages and Tools
+### [Avionify](https://github.com/avionify-app)
+Avionify is a sophisticated application aimed at revolutionizing the aviation industry. Built with modern web technologies, this project demonstrates my ability to develop scalable and efficient solutions.
 
-Here are some of the languages and tools I work with:
+## 💼 Skills
 
-- **Programming Languages:** TypeScript, HTML, CSS, 
-- **Frameworks and Libraries:** Next.js, React
-- **Tools and Technologies:** Vercel
+- **Languages:** TypeScript, CSS, HTML, C++ (learning)
+- **Frameworks & Libraries:** React, Angular, Node.js
+- **Tools:** Git, Webpack, VS Code, Docker
+- **Others:** Agile methodologies, Continuous Integration/Continuous Deployment (CI/CD)
+
+## 🌐 Contact Me
+
+- **Email:** [dominik@hula.sh](mailto:dominik@hula.sh)
+- **LinkedIn:** [Dominik Hůla](https://www.linkedin.com/in/dominik-hula/)
+- **GitHub:** [DomiTG](https://github.com/DomiTG)
 
 ## 📈 GitHub Stats
 
-![DomiTG's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomiTG&show_icons=true&theme=radical)
+![Dominik's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomiTG&show_icons=true&theme=radical)
 
-## 🏆 Top Projects
+## 🛠️ Projects & Contributions
 
-Here are some of the top projects I've worked on:
+Check out my repositories to see the diverse range of projects I've worked on. I'm always looking for opportunities to collaborate and learn from others in the community.
 
-- **Avionify(https://github.com/avionify-app)**
-  - *Description of the project and your contribution.*
-  - 
-## 📫 Connect with Me
+- [VYTVORKONVERZKU](https://github.com/vytvorkonverzku)
+- [Avionify](https://github.com/avionify-app)
+- [Other Projects](https://github.com/DomiTG?tab=repositories)
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter:** [Your Twitter Profile](https://twitter.com/your-profile)
-- **Personal Website:** [Your Website](https://your-website.com)
+## 🌍 Future Aspirations
 
-Thanks for visiting my profile! Feel free to reach out if you want to collaborate on something or just chat about technology.
+I dream of working in the UK and contributing to cutting-edge projects. I'm eager to connect with like-minded professionals and explore opportunities that challenge and inspire me.
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=DomiTG.DomiTG)
+---
+
+Thank you for visiting my GitHub profile. Feel free to reach out if you have any questions or if you'd like to collaborate on a project!
